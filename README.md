@@ -5,6 +5,7 @@ To run this, you will need the Processing Java application downloaded
 - Download the zip file
 - Unzip it
 - Go into the folder and double click on the Processing file to run it
+(If you run into errors while trying to run it, try going to Tools > Add Tools > Libraries then add the Minim Audio Library)
 
 However, if you don't have Processing Java - fear not I still got you covered
 - Open the CPT_Game_Final_Build(pictures and source) folder
